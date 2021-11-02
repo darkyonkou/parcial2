@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat Alternates', sans-serif;
+  }
+  body {
+  height: 500px;
+  background: #D1F2EB;
+  background-repeat:no-repeat;
+  background-position-x:center;
+  background-position-y:center;
+  background-size: 10rem;
+}
